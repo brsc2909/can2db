@@ -27,5 +27,7 @@ still needs a lot of work, not really usable.
 not implemented yet
 
 ### can2influx
+not implemented yet
 
-### can2
+### can2kafka
+not implemented yet
